@@ -77,6 +77,3 @@ Enter roads:
 - Improve performance for larger datasets
 
 ---
-
-## 👨‍💻 Author
-**Srikar**
